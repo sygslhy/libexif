@@ -103,8 +103,3 @@ target_include_directories(
 )
 
 target_compile_definitions(${TARGET} PRIVATE GETTEXT_PACKAGE="libexif-12")
-
-install(TARGETS ${TARGET}
-    LIBRARY DESTINATION lib
-    PUBLIC_HEADER DESTINATION include/libexif
-    RUNTIME DESTINATION bin)
