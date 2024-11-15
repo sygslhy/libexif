@@ -1,0 +1,13 @@
+D:/third-party/libexif/build/CMakeFiles/edit_cache.dir
+D:/third-party/libexif/build/CMakeFiles/rebuild_cache.dir
+D:/third-party/libexif/build/CMakeFiles/list_install_components.dir
+D:/third-party/libexif/build/CMakeFiles/install.dir
+D:/third-party/libexif/build/CMakeFiles/install/local.dir
+D:/third-party/libexif/build/CMakeFiles/install/strip.dir
+D:/third-party/libexif/build/impact/CMakeFiles/exif.dir
+D:/third-party/libexif/build/impact/CMakeFiles/edit_cache.dir
+D:/third-party/libexif/build/impact/CMakeFiles/rebuild_cache.dir
+D:/third-party/libexif/build/impact/CMakeFiles/list_install_components.dir
+D:/third-party/libexif/build/impact/CMakeFiles/install.dir
+D:/third-party/libexif/build/impact/CMakeFiles/install/local.dir
+D:/third-party/libexif/build/impact/CMakeFiles/install/strip.dir

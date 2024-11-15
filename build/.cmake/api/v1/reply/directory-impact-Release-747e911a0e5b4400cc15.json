@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"impact/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"impact/libexif.a"
+			],
+			"targetId" : "exif::@e3efdfbf8f3f7f3741ac",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/libexif",
+			"paths" : 
+			[
+				"impact/../libexif/_stdint.h",
+				"impact/../libexif/exif-data.h",
+				"impact/../libexif/exif-byte-order.h",
+				"impact/../libexif/exif-data-type.h",
+				"impact/../libexif/exif-ifd.h",
+				"impact/../libexif/exif-log.h",
+				"impact/../libexif/exif-tag.h",
+				"impact/../libexif/exif-content.h",
+				"impact/../libexif/exif-mnote-data.h",
+				"impact/../libexif/exif-mem.h",
+				"impact/../libexif/exif-entry.h",
+				"impact/../libexif/exif-format.h",
+				"impact/../libexif/exif-loader.h",
+				"impact/../libexif/exif-utils.h",
+				"impact/../libjpeg/jpeg-data.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "impact",
+		"source" : "impact"
+	}
+}

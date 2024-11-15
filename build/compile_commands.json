@@ -1,0 +1,158 @@
+[
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\exif-mnote-data-canon.c.obj -c D:\\third-party\\libexif\\libexif\\canon\\exif-mnote-data-canon.c",
+  "file": "D:\\third-party\\libexif\\libexif\\canon\\exif-mnote-data-canon.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\exif-mnote-data-canon.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\mnote-canon-entry.c.obj -c D:\\third-party\\libexif\\libexif\\canon\\mnote-canon-entry.c",
+  "file": "D:\\third-party\\libexif\\libexif\\canon\\mnote-canon-entry.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\mnote-canon-entry.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\mnote-canon-tag.c.obj -c D:\\third-party\\libexif\\libexif\\canon\\mnote-canon-tag.c",
+  "file": "D:\\third-party\\libexif\\libexif\\canon\\mnote-canon-tag.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\canon\\mnote-canon-tag.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\exif-mnote-data-fuji.c.obj -c D:\\third-party\\libexif\\libexif\\fuji\\exif-mnote-data-fuji.c",
+  "file": "D:\\third-party\\libexif\\libexif\\fuji\\exif-mnote-data-fuji.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\exif-mnote-data-fuji.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\mnote-fuji-entry.c.obj -c D:\\third-party\\libexif\\libexif\\fuji\\mnote-fuji-entry.c",
+  "file": "D:\\third-party\\libexif\\libexif\\fuji\\mnote-fuji-entry.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\mnote-fuji-entry.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\mnote-fuji-tag.c.obj -c D:\\third-party\\libexif\\libexif\\fuji\\mnote-fuji-tag.c",
+  "file": "D:\\third-party\\libexif\\libexif\\fuji\\mnote-fuji-tag.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\fuji\\mnote-fuji-tag.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\exif-mnote-data-olympus.c.obj -c D:\\third-party\\libexif\\libexif\\olympus\\exif-mnote-data-olympus.c",
+  "file": "D:\\third-party\\libexif\\libexif\\olympus\\exif-mnote-data-olympus.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\exif-mnote-data-olympus.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\mnote-olympus-entry.c.obj -c D:\\third-party\\libexif\\libexif\\olympus\\mnote-olympus-entry.c",
+  "file": "D:\\third-party\\libexif\\libexif\\olympus\\mnote-olympus-entry.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\mnote-olympus-entry.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\mnote-olympus-tag.c.obj -c D:\\third-party\\libexif\\libexif\\olympus\\mnote-olympus-tag.c",
+  "file": "D:\\third-party\\libexif\\libexif\\olympus\\mnote-olympus-tag.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\olympus\\mnote-olympus-tag.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\exif-mnote-data-pentax.c.obj -c D:\\third-party\\libexif\\libexif\\pentax\\exif-mnote-data-pentax.c",
+  "file": "D:\\third-party\\libexif\\libexif\\pentax\\exif-mnote-data-pentax.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\exif-mnote-data-pentax.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\mnote-pentax-entry.c.obj -c D:\\third-party\\libexif\\libexif\\pentax\\mnote-pentax-entry.c",
+  "file": "D:\\third-party\\libexif\\libexif\\pentax\\mnote-pentax-entry.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\mnote-pentax-entry.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\mnote-pentax-tag.c.obj -c D:\\third-party\\libexif\\libexif\\pentax\\mnote-pentax-tag.c",
+  "file": "D:\\third-party\\libexif\\libexif\\pentax\\mnote-pentax-tag.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\pentax\\mnote-pentax-tag.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-byte-order.c.obj -c D:\\third-party\\libexif\\libexif\\exif-byte-order.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-byte-order.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-byte-order.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-content.c.obj -c D:\\third-party\\libexif\\libexif\\exif-content.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-content.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-content.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-data.c.obj -c D:\\third-party\\libexif\\libexif\\exif-data.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-data.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-data.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-entry.c.obj -c D:\\third-party\\libexif\\libexif\\exif-entry.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-entry.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-entry.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-format.c.obj -c D:\\third-party\\libexif\\libexif\\exif-format.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-format.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-format.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-ifd.c.obj -c D:\\third-party\\libexif\\libexif\\exif-ifd.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-ifd.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-ifd.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-loader.c.obj -c D:\\third-party\\libexif\\libexif\\exif-loader.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-loader.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-loader.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-log.c.obj -c D:\\third-party\\libexif\\libexif\\exif-log.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-log.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-log.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-mem.c.obj -c D:\\third-party\\libexif\\libexif\\exif-mem.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-mem.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-mem.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-mnote-data.c.obj -c D:\\third-party\\libexif\\libexif\\exif-mnote-data.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-mnote-data.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-mnote-data.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-tag.c.obj -c D:\\third-party\\libexif\\libexif\\exif-tag.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-tag.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-tag.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-utils.c.obj -c D:\\third-party\\libexif\\libexif\\exif-utils.c",
+  "file": "D:\\third-party\\libexif\\libexif\\exif-utils.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libexif\\exif-utils.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libjpeg\\jpeg-data.c.obj -c D:\\third-party\\libexif\\libjpeg\\jpeg-data.c",
+  "file": "D:\\third-party\\libexif\\libjpeg\\jpeg-data.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libjpeg\\jpeg-data.c.obj"
+},
+{
+  "directory": "D:/third-party/libexif/build",
+  "command": "D:\\msys64\\mingw64\\bin\\gcc.exe -DGETTEXT_PACKAGE=\\\"libexif-12\\\" -ID:/third-party/libexif/impact/.. -ID:/third-party/libexif/impact/../libexif -O3 -DNDEBUG -o impact\\CMakeFiles\\exif.dir\\__\\libjpeg\\jpeg-marker.c.obj -c D:\\third-party\\libexif\\libjpeg\\jpeg-marker.c",
+  "file": "D:\\third-party\\libexif\\libjpeg\\jpeg-marker.c",
+  "output": "impact\\CMakeFiles\\exif.dir\\__\\libjpeg\\jpeg-marker.c.obj"
+}
+]
