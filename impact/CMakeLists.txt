@@ -92,7 +92,7 @@ set(SRCS
 )
 
 # we're building a library
-add_library(${TARGET} STATIC ${PRIVATE_HDRS} ${PUBLIC_HDRS} ${SRCS})
+add_library(${TARGET} SHARED ${PRIVATE_HDRS} ${PUBLIC_HDRS} ${SRCS})
 set_target_properties(${TARGET} PROPERTIES PUBLIC_HEADER "${PUBLIC_HDRS}")
 
 # specify where the public headers of this library are
