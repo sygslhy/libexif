@@ -64,3 +64,4 @@ depcomp
 INSTALL
 test-driver
 ChangeLog.git
+build/*
