@@ -93,12 +93,11 @@ set(SRCS
 
 # we're building a library
 add_library(${TARGET} SHARED ${PRIVATE_HDRS} ${PUBLIC_HDRS} ${SRCS})
-set_target_properties(${TARGET} PROPERTIES PUBLIC_HEADER "${PUBLIC_HDRS}")
 
 # specify where the public headers of this library are
 target_include_directories(
     ${TARGET}
-    PUBLIC $<BUILD_INTERFACE:${PUBLIC_HDR_DIR}> $<INSTALL_INTERFACE:include>
+    PUBLIC ${PUBLIC_HDR_DIR}
     PRIVATE ${PRIVATE_HDR_DIR}
 )
 
