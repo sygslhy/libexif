@@ -94,6 +94,12 @@ set(SRCS
 # we're building a library
 add_library(${TARGET} SHARED ${PRIVATE_HDRS} ${PUBLIC_HDRS} ${SRCS})
 
+# Build everything as static for MinGW to avoid any DLL dependency
+if(MINGW OR MSYS)
+    target_link_libraries(${TARGET} PRIVATE "-static -static-libgcc -static-libstdc++")
+endif()
+
+
 # specify where the public headers of this library are
 target_include_directories(
     ${TARGET}
